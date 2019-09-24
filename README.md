@@ -12,14 +12,14 @@ La structure interne du dossier `guide` est repris tel quel à l'url [bdecesilyo
 
 ```
 /guide/bde/role-du-secrétaire.md
-Disponele à l'adresse https://bdecesilyon.fr/guide/bde/role-du-secrétaire
+Disponible à l'adresse https://bdecesilyon.fr/guide/bde/role-du-secrétaire
 ```
 
 Le document par défaut est `index.md` et sera affiché dans le cas ou l'URL pointe vers le nom du dossier
 
 ```
 /guide/vie-asso/commission/index.md
-Mapped to https://bdecesilyon.fr/guide/vie-asso/commission
+Disponible à l'adresse https://bdecesilyon.fr/guide/vie-asso/commission
 ```
 
 ## Règles d'écriture
