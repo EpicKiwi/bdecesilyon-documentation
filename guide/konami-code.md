@@ -9,3 +9,5 @@ Il s'agit ici de la version originale du code, adaptée à la manette de la Nint
 Le code Konami est un des cheat codes les plus connus dans la communauté du jeu vidéo. Du fait de sa popularité, il est parfois utilisé par des internautes pour se moquer des personnes recherchant des cheat codes. 
 
 * [Home](.)
+
+![Logo du BDE](bde/logo.jpg)
