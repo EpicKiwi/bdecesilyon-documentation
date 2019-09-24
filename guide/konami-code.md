@@ -7,7 +7,3 @@ Ce code fut utilisé pour la première fois en 1986 dans le jeu vidéo Gradius p
 Il s'agit ici de la version originale du code, adaptée à la manette de la Nintendo Entertainment System. De nombreux joueurs y rajoutent les touches « Start » et « Select », mais cela sert généralement à lancer le jeu ou à arrêter la pause et ne fait pas partie du code. La séquence exacte varie suivant les jeux et a été adaptée aux différentes manettes de console de jeu vidéo.
 
 Le code Konami est un des cheat codes les plus connus dans la communauté du jeu vidéo. Du fait de sa popularité, il est parfois utilisé par des internautes pour se moquer des personnes recherchant des cheat codes. 
-
-* [Home](.)
-
-![Logo du BDE](bde/logo.jpg)
