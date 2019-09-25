@@ -82,6 +82,7 @@ Pour représenter un Tag comme on peut le voir sur le site, on utilise l'éléme
 
 ```html
 <bde-tag color="{{couleur du tag}}" >{{texte du tag}}</bde-tag>
+<bde-tag color="orange" >temperiem</bde-tag>
 ```
 
 La couleur du tag peut être n'importe quel couleur HTML, Hexadécimal, RGB, RGBA, etc.
