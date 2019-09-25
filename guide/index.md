@@ -6,38 +6,38 @@ Son fonctionnement, les différents rôles, leur utilité, les démarches et bie
 
 <div class="multicols">
   <div class="col" markdown="1">
-### Le BDE
+  ### Le BDE
 
-* [Bienvenue au BDE](#)
-  
-### Les commissions
+  * [Bienvenue au BDE](#)
 
-- Pars nepoti piceis soror hostis genibusque semine
-- Viro illi sic
-- Pallore multumque
-  
-### Lorem ipsum
+  ### Les commissions
 
-- Pars nepoti piceis soror hostis genibusque semine
-- Viro illi sic
-- Pallore multumque
+  - Pars nepoti piceis soror hostis genibusque semine
+  - Viro illi sic
+  - Pallore multumque
+
+  ### Lorem ipsum
+
+  - Pars nepoti piceis soror hostis genibusque semine
+  - Viro illi sic
+  - Pallore multumque
   </div>
   <div class="col" markdown="1">
-### Outils
+  ### Outils
 
-- Pars nepoti piceis soror hostis genibusque semine
-- Viro illi sic
-- Pallore multumque
   - Pars nepoti piceis soror hostis genibusque semine
   - Viro illi sic
   - Pallore multumque
-  
-### Le site
+    - Pars nepoti piceis soror hostis genibusque semine
+    - Viro illi sic
+    - Pallore multumque
 
-* [Journal des changements](./site/changelog.md)
-  - Pars nepoti piceis soror hostis genibusque semine
-  - Viro illi sic
-  - Pallore multumque
+  ### Le site
+
+  * [Journal des changements](./site/changelog.md)
+    - Pars nepoti piceis soror hostis genibusque semine
+    - Viro illi sic
+    - Pallore multumque
   </div>
 </div>
 
