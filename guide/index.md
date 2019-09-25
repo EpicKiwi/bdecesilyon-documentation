@@ -6,6 +6,7 @@ Son fonctionnement, les différents rôles, leur utilité, les démarches et bie
 
 <div class="multicols">
   <div class="col" markdown="1">
+    
   ### Le BDE
 
   * [Bienvenue au BDE](#)
@@ -21,8 +22,10 @@ Son fonctionnement, les différents rôles, leur utilité, les démarches et bie
   - Pars nepoti piceis soror hostis genibusque semine
   - Viro illi sic
   - Pallore multumque
+  
   </div>
   <div class="col" markdown="1">
+  
   ### Outils
 
   - Pars nepoti piceis soror hostis genibusque semine
@@ -38,6 +41,7 @@ Son fonctionnement, les différents rôles, leur utilité, les démarches et bie
     - Pars nepoti piceis soror hostis genibusque semine
     - Viro illi sic
     - Pallore multumque
+    
   </div>
 </div>
 
