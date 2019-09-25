@@ -1,6 +1,6 @@
 # Bac à sable
 
-Bienvue sur le bac à sable, ici c'est le bordel
+Bienvenue sur le bac à sable, ici c'est le bordel
 
 # Perveniunt cum
 
