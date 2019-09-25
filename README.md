@@ -47,3 +47,32 @@ Le BDE est une association d'étudiant et nous sommes tous très occupés, tout 
 
 Les étudiants disposent aussi d'un formulaire permettant de donner leur avis sur la page de documentation qu'ils sont en train de lire.
 Le formulaire crée une issue dans ce repository.
+
+## Modèles HTML
+
+Les modèles suivants permettent d'ajouter plus de focntionnalités a un document.
+Il est conseillé de se restreindre aux modèles suivants et de ne pas essayer d'utiliser du HTML en dehors de ces cas d'utilisation.
+
+### Sauts
+
+Les sauts permettent d'insèrer un espace vide dans le document.
+Les tailles de chaque saut dépend du style du site et son disponible en 3 version.
+
+Pour un grand saut
+
+```html
+<div class="bigskip"></div>
+```
+
+Pour un saut de taille moyenne
+
+```html
+<div class="mdeskip"></div>
+```
+
+
+Pour un petit saut
+
+```html
+<div class="smallskip"></div>
+```
