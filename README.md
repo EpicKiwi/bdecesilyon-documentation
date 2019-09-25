@@ -28,7 +28,7 @@ Ces quelques rêgles doivent être réspectés durant la rédaction pour assurer
 
 1. **Toujours** débuter un document par un **titre de première importance** (débutant par #). Cela permet de donner le titre à la page.
 2. Ne pas **faire de lien absolu** entre les documents. Ils ne seront plus valides sur le site. En revanche il est possible d'utiliser des chemins relatifs.
-3. Les **images** doivent être référencées par un lien **absolu** et non ralatif. L'utilisation d'images hébergées sur le repository est autorisé mais vous devez donner le lien complet vers l'image et non un chemin relatif.
+3. Les fichiers non Markdown seront servis tel quel et peuvent permettre d'héberger des images, documents, etc. 
 4. L'utilisation du **HTML est autorisée** mais ne doit pas être utilisé trop souvant. cela peut perturber l'unicité du style et le bon affichage de la page.
 5. Le **javascript n'est pas autorisé**.
 
@@ -37,6 +37,7 @@ Quelque règles à propos du ton et de la syntaxe
 1. Soyez encourageant dans les démarches et les explications afin de ne jamais démotiver le lecteur.
 2. Tutoyez le lecteur, c'est le ton généralement employé sur le site.
 3. N'hesitez pas à illustrer vos propos avec des images, des exemples, etc.
+4. Ne vous prenez pas la tête avec l'orthographe et la grammaire, plusieurs personnes passerons pour relire et corriger ce que vous écrivez.
 
 ## Contributions
 
