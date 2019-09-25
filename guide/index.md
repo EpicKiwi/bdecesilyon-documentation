@@ -5,7 +5,7 @@ Dans ce guide tu trouvera tout un tas d'informations à propos de la vie associa
 Son fonctionnement, les différents rôles, leur utilité, les démarches et bien plus.
 
 <div class="multicols">
-  <div class="col">
+  <div class="col" markdown="1">
   
 ### Le BDE
 
@@ -24,7 +24,7 @@ Son fonctionnement, les différents rôles, leur utilité, les démarches et bie
 - Pallore multumque
   
   </div>
-  <div class="col">
+  <div class="col" markdown="1">
 
 ### Outils
 
