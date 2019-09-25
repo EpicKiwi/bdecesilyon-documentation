@@ -70,9 +70,18 @@ Pour un saut de taille moyenne
 <div class="mdeskip"></div>
 ```
 
-
 Pour un petit saut
 
 ```html
 <div class="smallskip"></div>
 ```
+
+### Tags
+
+Pour représenter un Tag comme on peut le voir sur le site, on utilise l'élément html `bde-tag` comme suis.
+
+```html
+<bde-tag color="{{couleur du tag}}" >{{texte du tag}}</bde-tag>
+```
+
+La couleur du tag peut être n'importe quel couleur HTML, Hexadécimal, RGB, RGBA, etc.
