@@ -11,7 +11,7 @@ Son fonctionnement, les différents rôles, leur utilité, les démarches et bie
 * [Bienvenue au BDE](bde/presentation.md)
 * [Les différents rôles des membres](bde/roles-des-membres.md)
 * [Les différents pôles du BDE](bde/poles-du-bde.md)
-* [Status et Règlement interieur](bde/status-et-reglement.md)
+* [Statut et Règlement interieur](bde/status-et-reglement.md)
 * [AGO et AGE](bde/ago-et-age.md)
 * [Être membre](bde/etre-membre.md)
 	* [Conseils de communication](bde/conseils-de-communication.md)
