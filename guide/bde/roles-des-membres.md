@@ -6,7 +6,7 @@ Les rôles de *président*, *secrétaire* et de *trésorier* sont requis pour l'
 ## Président
 
 Le grand chef du BDE.
-Il représente l'association du BDE et dirige les decisions.
+Il représente l'association du BDE et dirige les décisions.
 
 ## Secrétaire
 
