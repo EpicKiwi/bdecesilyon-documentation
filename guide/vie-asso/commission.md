@@ -2,7 +2,7 @@
 
 Une commission est un regroupement d'étudiants autour d'un projet commun. Celui-ci peut prendre n'importe quelle forme et toucher n'importe quel domaine : vos idées ne sont pas limitées par les commissions.
 
-Une commission est présidée par un Président, qui prend les responsabilités de la commission et est l'interlocuteur privilégié avec le [BDE](presentation.md).
+Une commission est présidée par un Président, qui prend les responsabilités de la commission et est l'interlocuteur privilégié avec le [BDE](../bde/presentation.md).
 Elle possède aussi un Trésorier qui tient et vérifie les comptes de la commission et pourra se voir demander tout type de justificatif de dépenses par le BDE.
 Elle peut posséder un Vice-Président qui assiste le président et le remplace en cas d'absence.
 
