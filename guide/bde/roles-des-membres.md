@@ -1,4 +1,4 @@
-# Les différents rôles des membres
+# Les différents rôles des membres du BDE
 
 Les rôles définissent la mission de chaque membre de l'association.
 Les rôles de *président*, *secrétaire* et de *trésorier* sont requis pour l'organisation d'une association et les autres sont plus officieux mais tout de même importants.
