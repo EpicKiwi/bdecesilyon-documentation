@@ -31,6 +31,7 @@ Son fonctionnement, les différents rôles, leur utilité, les démarches et bie
 
 ### Le site
 
+* [Contribuer au site](site/contribuer.md)
 * [Journal des changements](site/changelog.md)
 
 > Nous agitons le maximum de neurones pour enrichir cette documentation...
