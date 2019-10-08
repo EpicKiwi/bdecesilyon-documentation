@@ -1,7 +1,7 @@
 # Les différents pôles du BDE
 
 Pour organiser les activités du BDE : Soirées, Partenariats, Vie Asso, etc... Le BDE a séparé ses activités en pôles.
-Chaque pôle à une mission principale et dispose de membres en charge de cette mission.
+Chaque pôle a une mission principale et dispose de membres en charge de cette mission.
 
 ## Gestion générale
 
