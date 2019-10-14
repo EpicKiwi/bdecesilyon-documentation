@@ -23,7 +23,7 @@ Son fonctionnement, les différents rôles, leur utilité, les démarches et bie
 
 * [Qu'est ce qu'une commission ?](vie-asso/commission.md)
 * [Guide du createur de commission](vie-asso/guide-du-createur.md)
-	* Demander un financement
+	* [Demander un financement](vie-asso/financement.md)
 	* [Comment faire une bonne description ?](vie-asso/faire-une-bonne-description.md)
 	* [Conseils de communication](vie-asso/conseils-de-communication.md)
 
