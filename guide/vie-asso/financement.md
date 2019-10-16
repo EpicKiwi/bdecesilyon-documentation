@@ -43,13 +43,13 @@ Tu recevra alors une réponse sur le montant que le BDE est prêt à te rembours
 C'est la **promesse de financement**.
 Le BDE peut alors rembourser pour un maximum du montant de cette promesse.
 
-### 3. Avance les dépenses
+### 3. Avancer les dépenses
 
 Éfféctue les dépenses de ta commission comprises dans ton estimation.
 **Il est tres important de conserver les tickets de tes dépenses ou de demander des factures.**
 Ils seront utilisés pour demander le remboursement de tes dépenses.
 
-### 4. Demande le remboursement
+### 4. Demander le remboursement
 
 Envoie un mail au gérant de la vie asso du BDE (C'est la personne en bas de la barre de gauche) pour lui demander de te rembourser.
 Il faudra joindre deux choses : 
