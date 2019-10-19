@@ -3,11 +3,12 @@
 Pour organiser les activités du BDE : Soirées, Partenariats, Vie Asso, etc... Le BDE a séparé ses activités en pôles.
 Chaque pôle a une mission principale et dispose de membres en charge de cette mission.
 
-## Gestion générale
+## Bureau restrein
 
-La gestion générale (aussi appelée Bureau Restreint) comprend le Président, le Secrétaire et le Trésorier.
+Le bureau restrein comprend le Président, le vice-président, le Secrétaire et le Trésorier.
 Ils sont en charge de la gestion de l'association, des comptes et de la communication entre les différents pôles.
 Ce sont nos leaders, ils représentent le BDE auprès de tous les étudiants.
+Il sont aussi particulièrement beau.
 
 ## Pôle Communication
 

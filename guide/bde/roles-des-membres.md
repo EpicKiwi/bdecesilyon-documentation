@@ -3,6 +3,8 @@
 Les rôles définissent la mission de chaque membre de l'association.
 Les rôles de *président*, *secrétaire* et de *trésorier* sont requis pour l'organisation d'une association et les autres sont plus officieux mais tout de même importants.
 
+Il est à noter que le Président, le Secrétaire, le trésorier et le vice-président représentent le [bureau restrein](./poles-du-bde.md) qui dirige le BDE.
+
 ## Président
 
 Le grand chef du BDE.
