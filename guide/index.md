@@ -19,6 +19,12 @@ Son fonctionnement, les différents rôles, leur utilité, les démarches et bie
 
 <div class="medskip"></div>
 
+### Le BDS
+
+* [Bienvenue au BDS](bds/presentation.md)
+
+<div class="medskip"></div>
+
 ### La Vie Asso
 
 * [Qu'est ce qu'une commission ?](vie-asso/commission.md)
