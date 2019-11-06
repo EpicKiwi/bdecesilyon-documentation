@@ -49,6 +49,8 @@ Réalise les dépenses de ta commission comprises dans ton estimation.
 **Il est très important de conserver les tickets de tes dépenses ou de demander des factures.**
 Ils seront utilisés pour demander le remboursement de tes dépenses.
 
+**ATTENTION** Tu ne peux pas utiliser cheques cadeaux, de ticket restaurants, de cheques voyages pour tes dépenses de vie asso. Garde les pour ton usage perso.
+
 ### 4. Demander le remboursement
 
 Envoie un mail au gérant de la vie associative du BDE (C'est la personne en bas de la barre de gauche) pour lui demander de te rembourser.
