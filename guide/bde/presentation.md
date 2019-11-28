@@ -11,11 +11,11 @@ C'est une grande salle avec une baie vitrée, tu peux y venir quand tu veux pour
 
 Le BDE est ouvert :
 
-Le matin de 8h00 à 9h00
-Durant la pause de 10h30 à 10h45
-Le Midi de 12h00  à 13h00
-La petite pause de 15h00 à 15h15
-Le Soir de 16h15 à 16h45
+* Le matin de 8h00 à 9h00
+* Durant la pause de 10h30 à 10h45
+* Le Midi de 12h00  à 13h00
+* La petite pause de 15h00 à 15h15
+* Le Soir de 16h15 à 16h45
 
 ## Snack
 
