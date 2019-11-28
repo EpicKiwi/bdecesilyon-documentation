@@ -9,6 +9,14 @@ Le BDE vous représente, vous écoute, vous aide, vous accueille et agit au quot
 Le BDE est situé en salle 100, dans le Batiment 1. 
 C'est une grande salle avec une baie vitrée, tu peux y venir quand tu veux pour discuter, partager, poser des questions à un membre du BDE ou acheter quelque chose à manger.
 
+Le BDE est ouvert :
+
+Le matin de 8h00 à 9h00
+Durant la pause de 10h30 à 10h45
+Le Midi de 12h00  à 13h00
+La petite pause de 15h00 à 15h15
+Le Soir de 16h15 à 16h45
+
 ## Snack
 
 Le BDE c'est d'abord un endroit où l'on peut acheter des snack en tout genre.
